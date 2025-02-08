@@ -1,6 +1,4 @@
-It seems like you're looking for a `README.md` file with everything organized correctly. Below is the content for your `README.md` file in proper format:
 
-```markdown
 # Construction Project Management System with Budget Prediction
 
 ## Overview
